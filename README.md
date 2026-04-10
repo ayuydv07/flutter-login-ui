@@ -1,17 +1,17 @@
-# login
+# Flutter Login Screen
 
-A new Flutter project.
+A clean and responsive login screen built using Flutter.
 
-## Getting Started
+## Features
+- Email and password input fields
+- Password visibility toggle
+- Input validation (email & password)
+- Smooth navigation flow
+- Minimal and clean UI
 
-This project is a starting point for a Flutter application.
+## Note
+After login, the app enters an "Ultra-Minimalist Mode" where everything is intentionally missing.
 
-A few resources to get you started if this is your first Flutter project:
+We realized dashboards cause cognitive load, user profiles invade privacy, and data is a liability — so we removed them.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Because sometimes... less is more.
